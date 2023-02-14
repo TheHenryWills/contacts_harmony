@@ -2,6 +2,11 @@ import setuptools
 
 with open("README.md", "r", encoding = "utf-8") as fh:
     long_description = fh.read()
+    
+project_urls = {
+  'Documentation ': 'https://contacts-harmony.readthedocs.io/',
+  'Source Code': 'https://github.com/TheHenryWills/contacts_harmony/'
+}
 
 setuptools.setup(
     name="contacts_harmony",
@@ -20,4 +25,5 @@ setuptools.setup(
     package_dir = {"": "contacts_harmony"},
     packages = setuptools.find_packages(where="contacts_harmony"),
     python_requires='>=3.6',
+    project_urls = project_urls
 )
