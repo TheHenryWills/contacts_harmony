@@ -10,7 +10,7 @@ project_urls = {
 
 setuptools.setup(
     name="contacts_harmony",
-    version="0.0.3",
+    version="0.0.4",
     author="Henry Wills",
     author_email="henry@debutwith.com",
     description="A Python library to normalize and validate email addresses and phone numbers entered into web forms.",
