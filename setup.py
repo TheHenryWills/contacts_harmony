@@ -5,7 +5,7 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name="contacts_harmony",
-    version="0.0.1",
+    version="0.0.3",
     author="Henry Wills",
     author_email="henry@debutwith.com",
     description="A Python library to normalize and validate email addresses and phone numbers entered into web forms.",
