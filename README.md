@@ -4,7 +4,7 @@ A Python library to normalize and validate email addresses and phone numbers ent
 
 
 
-## Email Address 
+## Email Address  
 ## Phone Number 
 ## License
 Copyright © 2023 Henry Wills
