@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
     name="contacts_harmony",
     version="0.0.1",
-    author="Hnery Wills",
+    author="Henry Wills",
     author_email="henry@debutwith.com",
     description="A Python library to normalize and validate email addresses and phone numbers entered into web forms.",
     url="https://github.com/TheHenryWills/contacts_harmony/tree/main/contacts_harmony",
