@@ -1,17 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to Contact Harmony's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Contact Harmony** is a Python library to normalize and validate email addresses and phone numbers entered into web forms.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
